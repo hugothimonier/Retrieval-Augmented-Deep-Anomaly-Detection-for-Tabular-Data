@@ -63,12 +63,20 @@ If you use this code for your work, please cite our paper
 [Paper](https://arxiv.org/abs/2401.17052) as
 
 ```bibtex
-@misc{thimonier2024making,
-      title={Making Parametric Anomaly Detection on Tabular Data Non-Parametric Again}, 
-      author={Hugo Thimonier and Fabrice Popineau and Arpad Rimmel and Bich-Liên Doan},
-      year={2024},
-      eprint={2401.17052},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{thimonier2024making,
+author = {Thimonier, Hugo and Popineau, Fabrice and Rimmel, Arpad and Doan, Bich-Li\^{e}n},
+title = {Retrieval Augmented Deep Anomaly Detection for Tabular Data},
+year = {2024},
+isbn = {9798400704369},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3627673.3679559},
+doi = {10.1145/3627673.3679559},
+booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+pages = {2250–2259},
+numpages = {10},
+keywords = {anomaly detection, deep learning, tabular data},
+location = {Boise, ID, USA},
+series = {CIKM '24}
 }
 ```
